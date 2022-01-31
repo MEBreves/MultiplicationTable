@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2022
 'Multiplication Table
-'url here
+'https://github.com/MEBreves/MultiplicationTable
 
 Option Explicit On
 Option Strict On
