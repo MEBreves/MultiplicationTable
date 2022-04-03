@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Multiplication Table", "Multiplication Table\Multiplication Table.vbproj", "{EF45C1F7-DA54-44C0-BFDB-A8ACA157B719}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MultiplicationTable", "Multiplication Table\MultiplicationTable.vbproj", "{EF45C1F7-DA54-44C0-BFDB-A8ACA157B719}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
