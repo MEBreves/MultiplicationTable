@@ -42,7 +42,7 @@ Module MultiplicationTable
         Console.WriteLine($"Enjoy your {tableSize} x {tableSize} Multiplication Table:")
         Console.WriteLine()
 
-
+        'Using nested for loops:
         'The first for loop sets up the rows of the multiplication table by moving the values down a line each iteration
         For i As Integer = 1 To tableSize
 
@@ -63,8 +63,6 @@ Module MultiplicationTable
         Console.WriteLine()
         Console.WriteLine("Please press the Enter key to exit the program.")
         Console.ReadLine()
-
-
 
     End Sub
 
